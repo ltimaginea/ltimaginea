@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🖖 I'm a C++ developer.
+- ⚡ Blog: [https://www.cnblogs.com/ltimaginea](https://www.cnblogs.com/ltimaginea)
+- 📫 How to contact me: gaoyuanwk@163.com
+
+
 
 <!--
 **ltimaginea/ltimaginea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
