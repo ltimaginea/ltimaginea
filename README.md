@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🖖 I'm a C++ developer.
-- ✍ Blog: [https://www.cnblogs.com/ltimaginea](https://www.cnblogs.com/ltimaginea)
+- ✍ I blog on [https://www.cnblogs.com/ltimaginea](https://www.cnblogs.com/ltimaginea)
 - 📫 How to contact me: gaoyuanwk@163.com
 
 
